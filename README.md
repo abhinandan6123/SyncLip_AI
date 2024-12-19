@@ -31,8 +31,11 @@ SyncLip AI utilizes state-of-the-art deep learning models to generate accurate a
 
 
 • **Seamless Lip Sync**: Automatically sync lip movements with any audio input, maintaining visual realism.
+
 • **Real-Time Processing**: Perform video editing in real-time with optimized algorithms.
+
 • **Flexible Integration**: Easily integrate into video production pipelines and virtual avatar systems.
+
 • **High Accuracy**: Utilize advanced neural networks to ensure high-quality results with minimal latency.
 
 
@@ -44,9 +47,13 @@ SyncLip AI utilizes state-of-the-art deep learning models to generate accurate a
 SyncLip AI is built using the following technologies:
 
 **Deep Learning**: GANs (Generative Adversarial Networks) for high-quality lip synchronization.
+
 **Python**: Core programming language.
+
 **OpenCV**: Computer vision library for video processing.
+
 **TensorFlow/PyTorch:** Frameworks for implementing the neural networks.
+
 **Librosa**: Library for audio analysis and feature extraction.
 
 
